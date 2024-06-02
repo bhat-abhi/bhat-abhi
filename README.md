@@ -1,5 +1,5 @@
 ![logo](https://www.freecodecamp.org/news/content/images/2024/04/What-is-GitHub-Wiki-and-How-Do-You-Use-it.png)
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyG9XMl0C7kgVPFdtd8WZgAjAqNPOHCCdnw&s)
+
  <h1 align="center">Hi 👋, I'm AABID</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b95233fe3wsg8omat8aktpluhf1bpy5qb8fgtkwqiwwx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
