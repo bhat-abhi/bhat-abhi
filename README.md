@@ -1,4 +1,4 @@
-![logo](https://github.com/bhat-abhi/bhat-abhii/blob/main/bannner-git.png)
+![logo](https://www.freecodecamp.org/news/content/images/2024/04/What-is-GitHub-Wiki-and-How-Do-You-Use-it.png)
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyG9XMl0C7kgVPFdtd8WZgAjAqNPOHCCdnw&s)
  <h1 align="center">Hi 👋, I'm AABID</h1>
 <h3 align="center">A passionate frontend developer</h3>
